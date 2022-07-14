@@ -1,5 +1,3 @@
-<img src="public/logo.png" height ="200px" align="right"/>
-
 # Sorting Visualizer
 
 Web App to demonstrate and help Visualize functioning of various Sorting Algorithms.
@@ -7,10 +5,6 @@ Web App to demonstrate and help Visualize functioning of various Sorting Algorit
 This project was bootstrapped with create-react-app.
 
 ## Live Application URL
-
-### https://rudra2112.github.io/sorting-visualizer/
-
-The application is deployed to this URL.
 
 ## Prerequisites
 
